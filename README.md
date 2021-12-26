@@ -1,2 +1,2 @@
-# POOLearning
-Aprendo conceptos básicos de POO con Scala
+# POO Learning
+I'm learning POO with Scala
