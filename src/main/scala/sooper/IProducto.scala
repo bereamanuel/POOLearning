@@ -1,4 +1,6 @@
-trait IProducto{
+package sooper
+
+trait IProducto {
   def getReferencia():String
   def getPeso():Int
   def getVolumen():Int
@@ -7,4 +9,5 @@ trait IProducto{
   def esCompatible(IProducto: IProducto):Boolean
 
   def tengoEspacio(IContenedor: IContenedor): Boolean
+
 }
